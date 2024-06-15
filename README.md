@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **weihung789@gmail.com**
 
-<h3 align="left">Connect with me: www.linkedin.com/in/lohweihung</h3>
 <p align="left">
 </p>
 
