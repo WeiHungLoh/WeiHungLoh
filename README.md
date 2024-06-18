@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wei Hung</h1>
 <h3 align="center">A passionate CS student from NUS</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/WeiHungLoh/Telegram-Bots](https://github.com/WeiHungLoh/Telegram-Bots)
+- 👨‍💻 All of my projects are available here:
+- [https://github.com/WeiHungLoh/Telegram-Bots](https://github.com/WeiHungLoh/Telegram-Bots)
 
 - 📫 How to reach me **weihung789@gmail.com**
 
