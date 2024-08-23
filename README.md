@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available here:
   - [Telegram Bots](https://github.com/WeiHungLoh/Telegram-Bots)
-  - [Academic Tracker](https://academictrackerwhloh.netlify.app/)
+  - [Academic Tracker](https://github.com/WeiHungLoh/academictracker)
 
 - 📫 How to reach me **weihung789@gmail.com**
 
