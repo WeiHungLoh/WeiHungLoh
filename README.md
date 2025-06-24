@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wei Hung</h1>
-<h3 align="center">A passionate CS student from NUS</h3>
+<h3 align="center">A CS student from NUS</h3>
 
 - 👨‍💻 All of my projects are available here:
+  - [Job Tracker](https://github.com/WeiHungLoh/job_tracker)
+  - [Academic Tracker](https://github.com/WeiHungLoh/academic_tracker)
   - [Telegram Bots](https://github.com/WeiHungLoh/Telegram-Bots)
-  - [Academic Tracker](https://github.com/WeiHungLoh/academic-tracker)
 
 - 📫 How to reach me **weihung789@gmail.com**
 
